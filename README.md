@@ -20,6 +20,8 @@ you can then save the client.swf from within the browser, via menu file save
 open the client.swf in AS3 Sorcerer run the Save All Scripts to Single File
 for use in packet id.exw, used to get the new upto-date packet id numbers
 
+    public static const RSA_PUBLIC_KEY:String = ((((("-----BEGIN PUBLIC KEY-----\n" + "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDCKFctVrhfF3m2Kes0FBL/JFeO") + "cmNg9eJz8k/hQy1kadD+XFUpluRqa//Uxp2s9W2qE0EoUCu59ugcf/p7lGuL99Uo") + "SGmQEynkBvZct+/M40L0E0rZ4BVgzLOJmIbXMp0J4PnPcb6VLZvxazGcmSfjauC7") + "F3yWYqUbZd/HCBtawwIDAQAB\n") + "-----END PUBLIC KEY-----");
+
 
 
         public static const BUILD_VERSION:String = "X29.0";
